@@ -1,0 +1,50 @@
+<!-- <p>emloyeeregisteration works!</p> -->
+<h1>Employee Registartion Form</h1>
+
+<form #signup="ngForm" (ngSubmit)="register(signup)">
+    <label>Enter the Code</label><br>
+    <input type="number" name="code" id="code" ngModel required #code="ngModel"><br>
+    <p *ngIf="code.touched && !code.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
+    <label>Enter the Name</label><br>
+    <input type="text" name="name" id="name" ngModel required #fullname="ngModel"><br>
+    <p *ngIf="fullname.touched && !fullname.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
+    <label>Enter the Department</label><br>
+    <input type="text" name="dptm" id="dptm" ngModel required #dptm="ngModel"><br>
+    <p *ngIf="dptm.touched && !dptm.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
+    <label>Enter the Desgination</label><br>
+    <input type="text" name="desg" id="desg" ngModel required #desg="ngModel"><br>
+    <p *ngIf="desg.touched && !desg.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
+    <label>Enter the Salary</label><br>
+    <input type="number" name="sal" id="sal" ngModel required #sal="ngModel"><br>
+    <p *ngIf="sal.touched && !sal.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
+    <input type="submit" value="Register">
+   
+</form>
+<br>
+<!--
+<p>Form element status {{signup.value | json}}</p>
+<p>Name {{fullname.value}}</p>
+-->
+<div *ngIf="regUsers.length>0">
+<h1>Employee Registartion</h1>
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Desgination</th>
+        <th>Salary</th>
+    </tr>
+
+    <tr *ngFor="let user of regUsers">
+        <td>{{user.code}}</td>
+        <td>{{user.name}}</td>
+        <td>{{user.dptm}}</td>
+        <td>{{user.desg}}</td>
+        <td>{{user.sal}}</td>
+        <td><button id="Edit">Exit</button></td>
+        <td><button id="remove"(click)="deleteRow(user.code)">Delete</button></td>
+    </tr>
+
+</table>
+</div>

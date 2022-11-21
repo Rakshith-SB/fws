@@ -1,0 +1,159 @@
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Personal\Personal\Blog\Blog project\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\rakshit.sb\Desktop\Angular\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache

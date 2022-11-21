@@ -1,0 +1,10 @@
+<div>
+<h1>Parent</h1>
+<h1></h1>
+<input type="text" name="msgfromparent" #msgparent>
+<button (click)="msgFromParent(msgparent.value)">Send Msg to Child</button>
+
+<p>Message from Child :: {{msgFromChild}}</p>
+
+<app-child [msgToChild]="msgToChild" (childEvent)="receiveChildMsg($event)"></app-child>
+</div>

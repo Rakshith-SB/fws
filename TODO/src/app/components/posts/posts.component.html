@@ -1,0 +1,56 @@
+<style>
+    #customers {
+      font-family: Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #customers tr:nth-child(even){background-color: #f2f2f2;}
+    
+    #customers tr:hover {background-color: #ddd;}
+    
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #04AA6D;
+      color: white;
+    }
+    </style>
+<h1>Posts</h1>
+<form #postForm="ngForm" (ngSubmit)="addPosts(postForm)">
+
+    <label for="UserId">User Id</label><br>
+    <input type="number" name="userId" ngModel><br>
+    <label for="id">Id</label><br>
+    <input type="number" name="id" ngModel><br>
+    <label for="title">Title</label><br>
+    <input type="text" name="title" ngModel><br>
+    <label for="body">body</label><br>
+    <input type="text" name="body" ngModel><br>
+    
+    <input type="submit" value="Add post">
+</form>
+
+<hr>
+<table id="customers">
+    <tr>
+        <th>User Id</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>body</th>
+    </tr>
+
+    <tr *ngFor="let post of posts">
+        <td>{{post.userId}}</td>
+        <td>{{post.id}}</td>
+        <td>{{post.title}}</td>
+        <td>{{post.body}}</td>
+    </tr>
+
+</table>
